@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParkingCar</string>
+    <string name="parking_car">PARKING CAR</string>
+    <string name="btn_profile1">PROFILE 1</string>
+    <string name="btn_profile2">PROFILE 2</string>
+    <string name="btn_profile3">PROFILE 3</string>
+    <string name="textbox_name">Name</string>
+    <string name="textbox_license">License Car</string>
+    <string name="textbox_car">Car</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="What_is_your_license">What is your license?</string>
+    <string name="What_is_your_car">What is your car?</string>
+    <string name="update_button">UPDATE</string>
+    <string name="edit_button">EDIT</string>
+</resources>
